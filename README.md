@@ -1,0 +1,4 @@
+OlingoSampleApp
+===============
+
+ODATA Sample app
